@@ -12,7 +12,7 @@ export default {
 </script>
 
 <style>
-/* h2 {
+h2 {
   color: rgb(133, 5, 150);
   font-weight: bold;
   font-size: 25px;
@@ -35,5 +35,5 @@ a {
   color: black;
   font-weight: bolder;
   font-size: 10px;
-} */
+}
 </style>

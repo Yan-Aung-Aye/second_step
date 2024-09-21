@@ -3,7 +3,7 @@
     <div class="group">
       <p class="text">
         မင်္ဂလာပါ ။ အွန်လိုင်းမှာ ယုံကြည်စိတ်ချရပြီး ဘောနက် လည်းနေ့စဥ်ပေးနေသော
-        အေးဂျင့်ကို သတိရတယ်ဆိုရင် ဒီကို သတိရလိုက်ပါနော် ။
+        အေးဂျင့်ကို ရှာနေတယ်ဆိုရင် သတိရလိုက်ပါနော် ။
       </p>
     </div>
   </div>
@@ -65,7 +65,7 @@ header a.router-link-active {
 
 @keyframes RightToleft {
   from {
-    transform: translate(0%);
+    transform: translate(50%);
   }
   to {
     transform: translate(-50%);

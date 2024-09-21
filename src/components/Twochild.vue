@@ -23,7 +23,7 @@
     <!-- 12-00 Time  is Here-->
     <div class="container">
       <h3>{{ twoDeeLive.result[1].twod }}</h3>
-      <h5>{{ twoDeeLive.result[1].open_time }}</h5>
+      <h5>မနက် - {{ twoDeeLive.result[1].open_time }}</h5>
       <div class="flex">
         <div>
           <p>Set</p>
@@ -44,7 +44,7 @@
     <!-- 4-30 Time is Here -->
     <div class="container">
       <h3>{{ twoDeeLive.result[3].twod }}</h3>
-      <h5>{{ twoDeeLive.result[3].open_time }}</h5>
+      <h5>ညနေ - {{ twoDeeLive.result[3].open_time }}</h5>
       <div class="flex">
         <div>
           <p>Set</p>
